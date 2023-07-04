@@ -1,2 +1,3 @@
-# BMSTU-WEB
-Фундаментальный web, advanced JS, клиентская разработка (vanilla js), серверная разработка (node.js), Real-time messages (polling, websocket)
+# LAB 4
+**Продолжение Лабораторной работы 3. Подключение к стороннему API (VK), Cors. Запросы XHR.**
+**Цель данной лабораторной работы** - взаимодействие с внешним Api через XMLHttpRequest.
