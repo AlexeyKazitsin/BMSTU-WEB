@@ -1,2 +1,4 @@
-# BMSTU-WEB
-Фундаментальный web, advanced JS, клиентская разработка (vanilla js), серверная разработка (node.js), Real-time messages (polling, websocket)
+# LAB1
+Создание калькулятора. Верстка на HTML, CSS. Функции на JavaScript.
+
+Цель данной лабораторной работы - знакомство с инструментами построения пользовательских интерфейсов web-сайтов: HTML, CSS, JavaScript.
